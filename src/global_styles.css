@@ -1,0 +1,26 @@
+/* Add application styles & imports to this file! */
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/* Estilos para el botón de éxito */
+.success-button {
+  background-color: #28a745;
+}
+
+/* Estilos para el botón de cancelación */
+.cancel-button {
+  background-color: #ffc107;
+}
+
+/* Estilos para el botón de error */
+.error-button {
+  background-color: #dc3545;
+}
